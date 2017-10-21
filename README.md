@@ -17,7 +17,7 @@ For a text editor, use VSCode (Sobhan: we've already installed it on your comput
   - Ensure that you thoroughly understand the material of the full course.
 
 ### 3. JS
-- [ ] This ['curriculum'](https://javascriptissexy.com/how-to-learn-javascript-properly/) is a good starting point for JavaScript.
+- [ ] This ['curriculum'](http://javascriptissexy.com/how-to-learn-javascript-properly/) is a good starting point for JavaScript.
   - [ ] Module 1 (Weeks 1 and 2)
   - [ ] Module 2 (Weeks 3 and 4)
   - [ ] Module 3 (Weeks 5 and 6)

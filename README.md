@@ -31,4 +31,4 @@ For a text editor, use VSCode (Sobhan: we've already installed it on your comput
 - [ ] [Web Fundamentals](https://developers.google.com/web/fundamentals/)
 
 # Building and monetizing a product
-- [ ] Once you get here, let's team up and build an actual product to get some fat $ subscriptions.
+- [ ] Let's build a real, subscription-based product.

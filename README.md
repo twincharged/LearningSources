@@ -8,12 +8,12 @@ For a text editor, use VSCode (Sobhan: we've already installed it on your comput
   - [VSCode tips and tricks](https://github.com/Microsoft/vscode-tips-and-tricks)
 
 ### 1. Bash
-- [ ] Take [this tutorial](https://ryanstutorials.net/bash-scripting-tutorial/).
+- [X] Take [this tutorial](https://ryanstutorials.net/bash-scripting-tutorial/).
   - Complete (at least) the first three modules, up until 'User Input!'.
   - Make sure you thoroughly understand the material of those first three modules.
 
 ### 2. Git
-- [ ] Completely finish [this tutorial](https://try.github.io/levels/1/challenges/1).
+- [X] Completely finish [this tutorial](https://try.github.io/levels/1/challenges/1).
   - Ensure that you thoroughly understand the material of the full course.
 
 ### 3. JS

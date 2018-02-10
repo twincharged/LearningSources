@@ -13,7 +13,7 @@ For a text editor, use VSCode (Sobhan: we've already installed it on your comput
   - Make sure you thoroughly understand the material of those first three modules.
 
 ### 2. Git
-- [ ] Completely finish [this tutorial](https://try.github.io/levels/1/challenges/1).
+- [X] Completely finish [this tutorial](https://try.github.io/levels/1/challenges/1).
   - Ensure that you thoroughly understand the material of the full course.
 
 ### 3. JS
